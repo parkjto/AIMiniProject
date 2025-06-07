@@ -16,9 +16,9 @@
 MinMaxScaler 사용하여 0~1 범위로 정규화 수행
 
 ## 최종 하이퍼 파라미터
-Earlystopping : val_loss가 20회 연속 개선되지 않으면 학습 중단
 ![image](https://github.com/user-attachments/assets/e1971825-c488-4cff-aa85-2dbdb7cd51b9)
 
+- Earlystopping : val_loss가 20회 연속 개선되지 않으면 학습 중단
 
 ## 최종 성능 
 Test 1의 MSE가 가장 낮다 따라서 Test 1의 구조가 가장 적합하다
